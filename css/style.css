@@ -10,11 +10,11 @@
 /* FONTS */
 @font-face {
     font-family: "Source Code Pro";
-    src: url("./fonts/Source_Code_Pro/static/SourceCodePro-Bold.ttf");
+    src: url("/fonts/Source_Code_Pro/static/SourceCodePro-Bold.ttf");
 }
 @font-face {
     font-family: "Cardo";
-    src: url("./fonts/Cardo/Cardo-Regular.ttf");
+    src: url("/fonts/Cardo/Cardo-Regular.ttf");
 }
 
 
